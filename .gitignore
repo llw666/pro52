@@ -1,0 +1,7 @@
+*.pyc
+*.splite3
+*.idea/
+__pycahe__/
+*.log
+*.venv
+
